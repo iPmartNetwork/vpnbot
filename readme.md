@@ -73,6 +73,6 @@ wget -O- https://raw.githubusercontent.com/ipmartnetwork/vpnbot-master/scripts/i
 ### Install as service (autoload on start):
 
 ```shell
-cd /root/VPNBOT
+cd /root/vpnbot-master
 bash scripts/install_as_service.sh
 ```
