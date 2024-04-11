@@ -67,12 +67,12 @@ environment: ubuntu 18.04/20.04/22.04, debian 11/12
 ### Install:
 
 ```shell
-wget -O- https://raw.githubusercontent.com/mercurykd/vpnbot/master/scripts/init.sh | sh -s YOUR_TELEGRAM_BOT_KEY
+wget -O- https://raw.githubusercontent.com/ipmartnetwork/vpnbot-master/scripts/init.sh | sh -s YOUR_TELEGRAM_BOT_KEY
 ```
 
 ### Install as service (autoload on start):
 
 ```shell
-cd /root/vpnbot
+cd /root/VPNBOT
 bash scripts/install_as_service.sh
 ```
